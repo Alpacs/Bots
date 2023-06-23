@@ -4,6 +4,19 @@
 ## На фронтенд можно посмотреть по ссылке:
 https://alpacs.github.io/Bots/
 
+## Насчёт БД
+```
+Для работы сервера также нужна база данных PostgreSQL.
+Название базы данных: railway_bots
+Первая таблица: chats_tg
+  id_chat_tg: integer, NOT NULL, primary key
+  username: character varying, NOT NULL
+  first_name: character varying, NOT NULL
+  type_chat: character varying, NOT NULL
+Вторая таблица:
+  id_user: integer, NOT NULL
+```
+
 ## Насчёт токенов
 ```
 Для запуска ботов понадобятся их ключи. Боты получают их по пути ./backend/telegram/config.js и ./frontend/vk/config.js

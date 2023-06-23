@@ -3,7 +3,7 @@
 
 ## На фронтенд можно посмотреть по ссылке:
 ```
-https://alpacs.github.io/Bots/
+[https://alpacs.github.io/Bots/](https://alpacs.github.io/Bots/)
 
 ```
 ## Насчёт токенов

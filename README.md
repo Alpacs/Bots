@@ -2,10 +2,8 @@
 
 
 ## На фронтенд можно посмотреть по ссылке:
-```
-https://alpacs.github.io/
+https://alpacs.github.io/Bots/
 
-```
 ## Насчёт токенов
 ```
 Для запуска ботов понадобятся их ключи. Боты получают их по пути ./backend/telegram/config.js и ./frontend/vk/config.js
